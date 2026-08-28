@@ -1,0 +1,26 @@
+page_comments: []
+inline_comments:
+  - id: c_1787881578625_vtvwz
+    anchor_hash: a_0_31a3a9f6
+    anchor_text: Page
+    paragraph_index: 0
+    heading_context: ''
+    body: '123'
+    created_at: '2026-08-28T01:46:18.625Z'
+    author: Marat Strelets
+    orphaned: false
+    resolved: false
+    reactions: []
+    replies: []
+  - id: c_1787881829084_87aev
+    anchor_hash: a_0_31a3a9f6
+    anchor_text: Page
+    paragraph_index: 0
+    heading_context: ''
+    body: '123'
+    created_at: '2026-08-28T01:50:29.084Z'
+    author: Marat Strelets
+    orphaned: false
+    resolved: false
+    reactions: []
+    replies: []
