@@ -10,7 +10,12 @@ inline_comments:
     orphaned: false
     resolved: false
     reactions: []
-    replies: []
+    replies:
+      - id: r_1787882078062_1q762
+        body: '222'
+        created_at: '2026-08-28T01:54:38.062Z'
+        author: Marat Strelets
+        reactions: []
   - id: c_1787881829084_87aev
     anchor_hash: a_0_31a3a9f6
     anchor_text: Page
