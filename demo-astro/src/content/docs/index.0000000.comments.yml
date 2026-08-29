@@ -35,16 +35,4 @@ inline_comments:
     resolved: false
     reactions: []
     replies: []
-  - id: c_1788037916343_xt3rn
-    anchor_hash: a_0_31a3a9f6
-    anchor_text: Page
-    paragraph_index: 0
-    heading_context: ''
-    body: Page
-    created_at: '2026-08-29T21:11:56.343Z'
-    author: Marat Strelets
-    orphaned: false
-    resolved: false
-    reactions: []
-    replies: []
 page_comments: []
